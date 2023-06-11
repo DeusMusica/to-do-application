@@ -5,4 +5,5 @@ export class Task {
   status?: string;
   dueDate?: Date;
   priority?: string;
+  completed?: boolean; // Add this line if it's missing
 }

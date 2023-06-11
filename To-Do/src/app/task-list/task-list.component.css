@@ -1,0 +1,17 @@
+/* task-list.component.css */
+
+.task-list-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.task-item {
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+  .task-item.completed {
+    background-color: #d9f9d9;
+  }
