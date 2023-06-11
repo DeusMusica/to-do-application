@@ -1,0 +1,2 @@
+D:\Git\to-do-application\To-Do\obj\Debug\To-Do.esproj.SuggestedBindingRedirects.cache
+D:\Git\to-do-application\To-Do\obj\Debug\To-Do.esproj.CoreCompileInputs.cache
